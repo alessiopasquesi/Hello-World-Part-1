@@ -1,0 +1,17 @@
+body {
+    background-color: #f0f0f0; /* Light grey background */
+    font-family: Arial, sans-serif; /* Change font style */
+}
+
+h1 {
+    color: #333; /* Dark grey color for the heading */
+    text-align: center; /* Center the heading */
+}
+
+img {
+    max-width: 100%; /* Responsive image */
+    height: auto; /* Maintain aspect ratio */
+    display: block; /* Make images block elements */
+    margin: 0 auto; /* Center images */
+}
+
